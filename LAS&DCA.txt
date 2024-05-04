@@ -1,0 +1,10 @@
+These airlines fly into LAS: ['AA', 'AS', 'B6', 'DL', 'F9', 'G4', 'HA', 'NK', 'OO', 'UA', 'WN']
+ These airlines fly into DCA: ['9E', 'AA', 'AS', 'B6', 'DL', 'F9', 'MQ', 'OH', 'OO', 'UA', 'WN', 'YX']
+ These airports have direct flights into LAS: ['AUS', 'CLT', 'DCA', 'DFW', 'LAX', 'MIA', 'ORD', 'PHL', 'PHX', 'ANC', 'PDX', 'SEA', 'SFO', 'BOS', 'FLL', 'JFK', 'ATL', 'CVG', 'DTW', 'MSP', 'RDU', 'SLC', 'BNA', 'CLE', 'DEN', 'ELP', 'IAH', 'IND', 'LIT', 'MCO', 'MDW', 'MKE', 'OKC', 'OMA', 'ONT', 'SAN', 'SAT', 'SNA', 'STL', 'TPA', 'ATW', 'AVL', 'BIL', 'BIS', 'BLI', 'BOI', 'BZN', 'CID', 'DSM', 'EUG', 'FAR', 'FAT', 'FCA', 'FNT', 'FSD', 'FWA', 'GEG', 'GFK', 'GJT', 'GRI', 'GRR', 'GTF', 'ICT', 'IDA', 'LEX', 'LRD', 'MEM', 'MFE', 'MFR', 'MLI', 'MOT', 'MRY', 'MSO', 'PIA', 'PSC', 'PVU', 'RAP', 'RFD', 'RNO', 'SBN', 'SCK', 'SDF', 'SFB', 'SGF', 'SHV', 'SMX', 'TUL', 'TYS', 'VPS', 'XNA', 'HNL', 'OGG', 'ABQ', 'BUR', 'BWI', 'CMH', 'EWR', 'MCI', 'MSY', 'OAK', 'PIT', 'RIC', 'SJC', 'SMF', 'IAD', 'AMA', 'BHM', 'BUF', 'COS', 'DAL', 'HOU', 'KOA', 'LBB', 'LGB', 'LIH', 'MAF', 'PSP', 'SBA', 'TUS']
+ These airports have direct flights into DCA: ['CVG', 'JFK', 'RDU', 'ATL', 'BGR', 'BNA', 'BOS', 'CHS', 'CLT', 'DFW', 'JAX', 'LAS', 'LAX', 'LGA', 'MCO', 'MIA', 'MSY', 'ORD', 'PBI', 'PHX', 'PIT', 'PVD', 'PWM', 'RSW', 'SRQ', 'STL', 'TPA', 'VPS', 'PDX', 'SEA', 'SFO', 'ACK', 'FLL', 'MVY', 'SJU', 'DTW', 'MSP', 'SLC', 'DEN', 'AVL', 'BTR', 'CMH', 'GSP', 'LIT', 'MHT', 'TLH', 'TYS', 'XNA', 'AGS', 'ALB', 'BDL', 'BHM', 'BTV', 'BUF', 'CAE', 'CAK', 'CHA', 'CID', 'CLE', 'CRW', 'DAY', 'DSM', 'ECP', 'EWN', 'GRR', 'GSO', 'HPN', 'HSV', 'ILM', 'IND', 'JAN', 'LAN', 'MCI', 'MEM', 'MGM', 'MSN', 'MYR', 'OKC', 'ORF', 'PHL', 'PNS', 'ROC', 'SAV', 'SDF', 'SYR', 'IAH', 'AUS', 'DAL', 'HOU', 'MDW', 'MKE', 'OMA', 'EWR', 'EYW', 'HHH', 'LEX', 'TUL', 'TVC']
+DCA has 1 more airlines inbound than LAS. 12 vs. 11
+LAS has 21 more airports that connect than DCA. 119 vs. 98
+Average delay for LAS: 17 minutes
+Average delay for DCA: 17 minutes
+For LAS, in July 31.37% of flights were late
+For DCA, in July 26.91% of flights were late
