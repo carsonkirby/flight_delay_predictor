@@ -16,7 +16,7 @@
 ## How to Run the Program 💻
 #### 1. Clone this repository on your local machine or just download the July23_Flight_Delays.csv file and the flight_delay_predictor.py file.
 #### 2. Open a Python terminal. I use a program called Spyder through Anconda Navigator.
-#### 3. Ensure that the python file and CSV file are in the same directory or file. 
+#### 3. Ensure that the python file and CSV file are in the same directory or folder. 
 #### 4. Run the python file
 #### 5. Input the airport codes of the two airports you want to compare when prompted
 #### 6. If successful, a txt file should be created in the same directory with the titled formatted as AirportCode1&AirportCode2.txt (LAS&DCA.txt)
