@@ -13,7 +13,7 @@
 ## What I Learned:
 #### Through this project, I learned how to built dictinaries in Python and implement them in functions that return useful information. I was challenged to use several functions that took the dictinaries as arguments and wrote the appopriate stats onto a new file. 
 
-## How to Run Application:
+## How to Run the Program:
 #### 1. Clone this repository on your local machine or just download the July23_Flight_Delays.csv file and the flight_delay_predictor.py file.
 #### 2. Open a Python terminal. I use a program called Spyder through Anconda Navigator.
 #### 3. Ensure that the python file and CSV file are in the same directory or file. 
